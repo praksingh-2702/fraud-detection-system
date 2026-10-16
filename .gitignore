@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project
+data/*
+!data/.gitkeep
+mlruns/
+*.joblib
+*.pkl
+.env
