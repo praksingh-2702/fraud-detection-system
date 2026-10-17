@@ -226,3 +226,5 @@ mlruns/
 *.joblib
 *.pkl
 .env
+/models/
+mlflow.db
